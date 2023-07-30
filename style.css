@@ -20,6 +20,7 @@ ul{
     gap: 16px;
 }
 .container{
+    flex-wrap: wrap;
     display: flex;
     flex-direction: column;
 }
